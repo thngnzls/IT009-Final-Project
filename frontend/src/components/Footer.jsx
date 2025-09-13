@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-32' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600'>Sophistique Luxe blends elegance with sustainability, offering timeless, eco-conscious fashion. Committed to quality, ethical sourcing, and effortless style, we create pieces that empower confidence and redefine modern luxury. Designed for those who value sophistication with a purpose.</p>
+          <p className='w-full md:w-2/3 text-gray-600'>Mediko delivers reliable, high-quality medical supplies with a focus on care and innovation. Dedicated to safety, ethical sourcing, and efficient service, we provide products that support health professionals and everyday needs. Designed for those who value trust and excellence in modern healthcare.</p>
         </div>
 
         <div>
@@ -25,7 +25,7 @@ const Footer = () => {
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-1 text-gray-600'>
             <li>+63 912 345 6789</li>
-            <li>Support@SophistiqueLuxe.com</li>
+            <li>Mediko@gmail.com</li>
           </ul>
         </div>
 
@@ -33,7 +33,7 @@ const Footer = () => {
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 2024@ SophistiqueLuxe.com - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright 2025@ Mediko.com - All Right Reserved.</p>
       </div>
 
     </div>
